@@ -242,7 +242,7 @@ Initial Observation
 The first execution resulted in behavior that differed from the intended simulation flow.
 
 «Evidence:
-"evidence/screenshot-01.png"»
+
 
 The observation was retained as part of the assessment record.
 
@@ -301,7 +301,7 @@ Figure 1 — Initial Simulated Message
 
 The simulation began with a message appearing in the target inbox.
 
-"Initial simulated message" (./evidence/screenshot-01.png)
+"Initial simulated message" (./evidence/لقطة الشاشة 2026-08-25 230648.png)
 
 What the Figure Shows
 
@@ -317,7 +317,7 @@ Figure 2 — Simulated Landing Page
 
 After interacting with the link, the user was directed to a controlled landing page created specifically for the simulation.
 
-"Simulated landing page" (./evidence/screenshot-02.png)
+"Simulated landing page" (./evidence/لقطة الشاشة 2026-08-25 230718.png)
 
 What the Figure Shows
 
@@ -335,7 +335,7 @@ Figure 3 — Legitimate Destination
 
 Following the simulated interaction, the workflow proceeded to the legitimate destination.
 
-"Legitimate destination" (./evidence/screenshot-03.png)
+"Legitimate destination" (./evidence/لقطة الشاشة 2026-08-25 231528.png)
 
 What the Figure Shows
 
