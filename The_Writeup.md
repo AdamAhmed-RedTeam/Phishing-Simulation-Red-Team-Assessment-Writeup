@@ -1,4 +1,4 @@
-Phoshing_Simulation_lab
+Phishing_Simulation_lab
 
 Simulating Modern Identity & Trust Exploitation Phishing Lab.
 
