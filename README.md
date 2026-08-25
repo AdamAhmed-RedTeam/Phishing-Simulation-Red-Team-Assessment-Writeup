@@ -38,15 +38,18 @@ The assessment followed a controlled workflow:
 
 Evidence
 
-Screenshots, logs, and other relevant evidence are included where appropriate.
+The screenshots and supporting artifacts referenced throughout this write-up are organized in the ""evidence/"" (./evidence/) directory of the repository.
+ You can find it with Click on "main", and choose (click on) "evidence"
+ 
+Each artifact is labeled according to the stage of the simulation it documents, allowing the reader to review the evidence alongside the corresponding findings.
 
-Sensitive information has been excluded or redacted.
+For example:
 
-Findings
+- "screenshot-01.png" — Initial message and user interaction.
+- "screenshot-02.png" — Observed browser behavior.
+- "screenshot-03.png" — Resulting security warning or redirect.
 
-The assessment findings, technical observations, evidence, and analysis are documented in:
-
-"The_Writeup.md" (The_Writeup.md)
+The evidence is provided for verification and transparency and was collected as part of an authorized, controlled simulation.
 
 Defensive Perspective
 
